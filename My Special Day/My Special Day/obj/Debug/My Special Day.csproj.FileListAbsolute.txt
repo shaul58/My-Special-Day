@@ -1,0 +1,16 @@
+c:\users\shaul\documents\visual studio 2013\Projects\My Special Day\My Special Day\bin\My Special Day.dll.config
+c:\users\shaul\documents\visual studio 2013\Projects\My Special Day\My Special Day\bin\My Special Day.dll
+c:\users\shaul\documents\visual studio 2013\Projects\My Special Day\My Special Day\bin\My Special Day.pdb
+c:\users\shaul\documents\visual studio 2013\Projects\My Special Day\My Special Day\obj\Debug\My Special Day.csprojResolveAssemblyReference.cache
+c:\users\shaul\documents\visual studio 2013\Projects\My Special Day\My Special Day\obj\Debug\My Special Day.dll
+c:\users\shaul\documents\visual studio 2013\Projects\My Special Day\My Special Day\obj\Debug\My Special Day.pdb
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day\My Special Day\obj\Debug\My_Special_Day.Properties.Resources.resources
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day\My Special Day\obj\Debug\My Special Day.csproj.GenerateResource.Cache
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day __Git\My-Special-Day\My Special Day\My Special Day\bin\My Special Day.dll.config
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day __Git\My-Special-Day\My Special Day\My Special Day\bin\My Special Day.dll
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day __Git\My-Special-Day\My Special Day\My Special Day\bin\My Special Day.pdb
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day __Git\My-Special-Day\My Special Day\My Special Day\obj\Debug\My Special Day.csprojResolveAssemblyReference.cache
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day __Git\My-Special-Day\My Special Day\My Special Day\obj\Debug\My_Special_Day.Properties.Resources.resources
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day __Git\My-Special-Day\My Special Day\My Special Day\obj\Debug\My Special Day.csproj.GenerateResource.Cache
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day __Git\My-Special-Day\My Special Day\My Special Day\obj\Debug\My Special Day.dll
+C:\Users\SHAUL\Documents\Visual Studio 2013\Projects\My Special Day __Git\My-Special-Day\My Special Day\My Special Day\obj\Debug\My Special Day.pdb
