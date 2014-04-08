@@ -53,7 +53,7 @@
    <span class="icon-bar"></span>
     <span class="icon-bar"></span>
    </button>
-       <img src="Resources/לוגו.jpg" alt="logo" height="100" width="100" />
+       <img src="imgs/MY_SPECIAL_DAY_logo.jpg" alt="logo" height="100" width="100" />
    <!--<a class="navbar-brand" href="https://www.google.co.il/"></a>  -->
   </div>
                
@@ -91,7 +91,7 @@
     <section id="prodacts"  class="row">
             <div class="col-sm-4" >
             	<h4>מוצר ראשון</h4>
-                <img src="Resources/IMG_0611.JPG" alt="..." class="img-thumbnail img-responsive" />
+                <img src="imgs/Chrysanthemum.jpg" alt="..." class="img-thumbnail img-responsive" />
                 <p>מה שאפשר לספר על המוצר הזה זה הרבה דברים. אולי למשל שהוא יודע לקפוץ, הוא גם יודע לבשל, ואולי גם לקרוא בשעות המאוחרות..</p>
                 <br />
                 <button  type="button" class="btn  btn-primary   ">המשך לקרוא..</button>
@@ -99,7 +99,7 @@
             
             <div class="col-sm-4" >
             	<h4>מוצר שני</h4>
-                <img src="Resources/IMG_0525.JPG" alt="..." class="img-thumbnail img-responsive" />
+                <img src="imgs/Koala.jpg" alt="..." class="img-thumbnail img-responsive" />
                 <p>מה שאפשר לספר על המוצר הזה זה הרבה דברים. אולי למשל שהוא יודע לקפוץ, הוא גם יודע לבשל, ואולי גם לקרוא בשעות המאוחרות..</p>
                 <br />
                 <button  type="button" class="btn btn  btn-primary ">המשך לקרוא..</button>
@@ -107,7 +107,7 @@
             
             <div class="col-sm-4">
            	 <h4>מוצר שלישי</h4>
-             <img src="Resources/IMG_0452.JPG" alt="..." class="img-thumbnail img-responsive" />
+             <img src="imgs/Penguins.jpg" alt="..." class="img-thumbnail img-responsive" />
              <p>מה שאפשר לספר על המוצר הזה זה הרבה דברים. אולי למשל שהוא יודע לקפוץ, הוא גם יודע לבשל, ואולי גם לקרוא בשעות המאוחרות..</p>
              <br />
              <button  type="button" class="btn btn  btn-primary ">המשך לקרוא..</button>
