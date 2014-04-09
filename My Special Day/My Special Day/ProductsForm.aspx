@@ -61,7 +61,7 @@
   <div class="collapse navbar-collapse navbar-ex1-collapse ">
       
   <ul class="nav navbar-nav navbar-right  "  id="menu_items">
-   <li class="active navbar-right"><a href="MainPage.aspx">דף הבית</a></li>
+   <li class="active navbar-right"><a href="main.aspx">דף הבית</a></li>
   <li class="navbar-right"><a href="#">מי אנחנו</a></li>
   <li class="navbar-right"> <a href="#">מוצרים</a></li>
    <li class="navbar-right"><a href="#">צרו קשר</a></li>

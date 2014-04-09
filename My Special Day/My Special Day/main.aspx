@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="My_Special_Day.MainPage" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="main.aspx.cs" Inherits="My_Special_Day.MainPage" %>
 
 <!DOCTYPE html>
 
@@ -60,7 +60,7 @@
   <div class="collapse navbar-collapse navbar-ex1-collapse ">
       
   <ul class="nav navbar-nav navbar-right  "  id="menu_items">
-   <li class="active navbar-right"><a href="#">דף הבית</a></li>
+   <li class="active navbar-right"><a href="main.aspx">דף הבית</a></li>
   <li class="navbar-right"><a href="#">מי אנחנו</a></li>
   <li class="navbar-right"> <a href="ProductsForm.aspx">מוצרים</a></li>
    <li class="navbar-right"><a href="#">צרו קשר</a></li>

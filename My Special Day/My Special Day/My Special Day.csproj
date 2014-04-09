@@ -75,17 +75,12 @@
     <Content Include="imgs\Penguins.jpg" />
     <Content Include="main.css" />
     <Content Include="main.js" />
-    <Content Include="index.aspx" />
-    <None Include="Resources\MY_SPECIAL_DAY_logo.jpg" />
-    <None Include="Resources\לוגו.jpg" />
-    <None Include="Resources\IMG_0452.JPG" />
-    <None Include="Resources\IMG_0480.JPG" />
+    <Content Include="main.aspx" />
     <None Include="Resources\IMG_0525.JPG" />
     <None Include="Resources\ברית_1.jpg" />
     <None Include="Resources\מתחתנים_1.jpg" />
     <None Include="Resources\בר מצווה _1.jpg" />
     <Content Include="ProductsForm.aspx" />
-    <None Include="Resources\IMG_0461.JPG" />
     <None Include="Resources\IMG_0611.JPG" />
     <Content Include="imgs\Tulips.jpg" />
     <Content Include="Web.config">
@@ -93,12 +88,12 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="index.aspx.cs">
-      <DependentUpon>index.aspx</DependentUpon>
+    <Compile Include="main.aspx.cs">
+      <DependentUpon>main.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="index.aspx.designer.cs">
-      <DependentUpon>index.aspx</DependentUpon>
+    <Compile Include="main.aspx.designer.cs">
+      <DependentUpon>main.aspx</DependentUpon>
     </Compile>
     <Compile Include="ProductsForm.aspx.cs">
       <DependentUpon>ProductsForm.aspx</DependentUpon>
@@ -117,6 +112,7 @@
   <ItemGroup>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>

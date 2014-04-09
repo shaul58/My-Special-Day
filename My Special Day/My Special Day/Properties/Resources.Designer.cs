@@ -63,16 +63,6 @@ namespace My_Special_Day.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap IMG_0461 {
-            get {
-                object obj = ResourceManager.GetObject("IMG_0461", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap IMG_0611 {
             get {
                 object obj = ResourceManager.GetObject("IMG_0611", resourceCulture);
@@ -106,16 +96,6 @@ namespace My_Special_Day.Properties {
         internal static System.Drawing.Bitmap ברית_1 {
             get {
                 object obj = ResourceManager.GetObject("ברית_1", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap לוגו {
-            get {
-                object obj = ResourceManager.GetObject("לוגו", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
