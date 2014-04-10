@@ -1,4 +1,13 @@
-﻿
+﻿#myDiv
+{
+    background-color:red;
+}
+.col-sm-12 {
+    background-color: yellow;
+}
+.col-sm-13 {
+    background-color:#033;
+}
 
 #imgSlide
 {

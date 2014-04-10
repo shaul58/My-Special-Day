@@ -63,7 +63,7 @@
    <li class="active navbar-right"><a href="main.aspx">דף הבית</a></li>
   <li class="navbar-right"><a href="#">מי אנחנו</a></li>
   <li class="navbar-right"> <a href="ProductsForm.aspx">מוצרים</a></li>
-   <li class="navbar-right"><a href="#">צרו קשר</a></li>
+   <li class="navbar-right"><a href="contact_as.aspx">צרו קשר</a></li>
   <li  class="navbar-right">
   
   <a href="#" class="dropdown-toggle " data-toggle="dropdown">עזרה <b class="caret"></b></a>

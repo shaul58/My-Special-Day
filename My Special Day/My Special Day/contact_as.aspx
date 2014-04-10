@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ProductsForm.aspx.cs" Inherits="My_Special_Day.MainPage" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="contact_as.aspx.cs" Inherits="My_Special_Day.contact_as" %>
 
 <!DOCTYPE html>
 
@@ -27,7 +27,6 @@
 
 </head>
 <body>
-
 
     <form id="form1" runat="server">
     <div class ="container">
@@ -63,8 +62,8 @@
   <ul class="nav navbar-nav navbar-right  "  id="menu_items">
    <li class="active navbar-right"><a href="main.aspx">דף הבית</a></li>
   <li class="navbar-right"><a href="#">מי אנחנו</a></li>
-  <li class="navbar-right"> <a href="#">מוצרים</a></li>
-   <li class="navbar-right"><a href="contact_as.aspx">צרו קשר</a></li>
+  <li class="navbar-right"> <a href="ProductsForm.aspx">מוצרים</a></li>
+   <li class="navbar-right"><a href="#">צרו קשר</a></li>
   <li  class="navbar-right">
   
   <a href="#" class="dropdown-toggle " data-toggle="dropdown">עזרה <b class="caret"></b></a>
@@ -77,48 +76,32 @@
             
    </li>
    </ul>
-     
-      <button type="button" class="btn btn-default navbar-btn  btn-inverse  navbar-left  btn-xs" id="registerButton" >יצירת אירוע</button>
-      
-      <button type="button" class="btn btn-default navbar-btn  navbar-left btn-xs btn-primary"  >התחברות</button>
-      
+    
   </div><!-- /.navbar-collapse -->
        
-  </nav> <!-- End of Nav Bar    ------------------------>
-
-   <!-- My  Products     -->  
-    
-    <section id="prodacts"  class="row">
-            <div class="col-sm-4" >
-            	<h4>מוצר ראשון</h4>
-                <img src="imgs/Chrysanthemum.jpg" alt="..." class="img-thumbnail img-responsive" />
-                <p>מה שאפשר לספר על המוצר הזה זה הרבה דברים. אולי למשל שהוא יודע לקפוץ, הוא גם יודע לבשל, ואולי גם לקרוא בשעות המאוחרות..</p>
-                <br />
-                <button  type="button" class="btn  btn-primary   ">המשך לקרוא..</button>
+       <div class="row" >
+              <div class="col-sm-6"></div>
+                <div class="col-sm-6"></div>
+                <div class="col-sm-6">
+                    <asp:LinkButton ID="myGit" runat="server"><a href="https://github.com/shaul58/My-Special-Day"> Go to my Git Represntory</a></asp:LinkButton>
+                </div>
+                <div class="col-sm-6"></div>
             </div>
-            
-            <div class="col-sm-4" >
-            	<h4>מוצר שני</h4>
-                <img src="imgs/Koala.jpg" alt="..." class="img-thumbnail img-responsive" />
-                <p>מה שאפשר לספר על המוצר הזה זה הרבה דברים. אולי למשל שהוא יודע לקפוץ, הוא גם יודע לבשל, ואולי גם לקרוא בשעות המאוחרות..</p>
-                <br />
-                <button  type="button" class="btn btn  btn-primary ">המשך לקרוא..</button>
-            </div>
-            
-            <div class="col-sm-4">
-           	 <h4>מוצר שלישי</h4>
-             <img src="imgs/Penguins.jpg" alt="..." class="img-thumbnail img-responsive" />
-             <p>מה שאפשר לספר על המוצר הזה זה הרבה דברים. אולי למשל שהוא יודע לקפוץ, הוא גם יודע לבשל, ואולי גם לקרוא בשעות המאוחרות..</p>
-             <br />
-             <button  type="button" class="btn btn  btn-primary ">המשך לקרוא..</button>
-            </div>
-            
-     </section> <!-- End Of My  Products    --->  
      
-
-
-        </div>
+        </nav>
+       </div>
+        
+        <div id="myDiv">shaul</div>
+   <!-- End of Nav Bar    ------------------------>
+        
+          
+      
+        
+        
         </form>
-
-        </body>
+    
+    <%--<asp:LinkButton ID="myGit" runat="server">My Git Represntory</asp:LinkButton>--%>
+    </body>
     </html>
+
+        
