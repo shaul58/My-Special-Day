@@ -100,19 +100,19 @@
     <div class="carousel-inner">
           
              <div class="item active">
-              <img src="imgs/Desert.jpg" alt="IMG1" id="imgSlide" >
+              <img src="imgs/WeedingSlide.jpg" alt="IMG1" id="imgSlide" >
                             
                            <div class="carousel-caption" >  סלייד ראשון .   <button  type="button" class="btn btn-primary  btn-sm ">לפרטים</button>  </div>
             
       </div>
              
       <div class="item ">
-                 <img src="imgs/Tulips.jpg" alt="IMG2" id="imgSlide" >
+                 <img src="imgs/BrMizvaSlide.jpg" alt="IMG2" id="imgSlide" >
               <div class="carousel-caption">  סלייד שני .   </div>
   </div>
        
            <div class="item ">
-                  <img src="imgs/Lighthouse.jpg" alt="IMG3" id="imgSlide" >
+                  <img src="imgs/BritSlide.jpg" alt="IMG3" id="imgSlide" >
                          <div class="carousel-caption">  סלייד שלישי ואחרון .   </div>
                          </div>
             
@@ -130,7 +130,7 @@
 
         $(document).ready(function () {
             $('.carousel').carousel({
-                interval: 1500
+                interval: 2500
             })
         });
 

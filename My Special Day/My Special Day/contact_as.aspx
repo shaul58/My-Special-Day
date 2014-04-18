@@ -30,6 +30,10 @@
 
     <form id="form1" runat="server">
     <div class ="container">
+         
+       <div class="row" >
+              <div class="col-sm-6">
+
       <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">                
       <div class="navbar-header">
        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -78,6 +82,10 @@
    </ul>
     
   </div><!-- /.navbar-collapse -->
+
+    </div>
+           </div>
+       
        
        <div class="row" >
               <div class="col-sm-6"></div>
@@ -91,7 +99,6 @@
         </nav>
        </div>
         
-        <div id="myDiv">shaul</div>
    <!-- End of Nav Bar    ------------------------>
         
           

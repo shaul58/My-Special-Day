@@ -11,9 +11,15 @@
 
 #imgSlide
 {
-    height:501px;
-    width:2000px;
+    height:500px;
+    width:2200px;
 }
+#fetureImg
+{
+    height:150px;
+    width:150px;
+}
+
 
 .carousel-indicators
 {

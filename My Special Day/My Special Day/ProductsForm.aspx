@@ -91,24 +91,24 @@
     <section id="prodacts"  class="row">
             <div class="col-sm-4" >
             	<h4>מוצר ראשון</h4>
-                <img src="imgs/Chrysanthemum.jpg" alt="..." class="img-thumbnail img-responsive" />
-                <p>מה שאפשר לספר על המוצר הזה זה הרבה דברים. אולי למשל שהוא יודע לקפוץ, הוא גם יודע לבשל, ואולי גם לקרוא בשעות המאוחרות..</p>
+                <img src="imgs/miBa.jpg" id="fetureImg" alt="..." class="img-thumbnail img-responsive" />
+                <p>כאן ניתן תיאור קצר על המוצר</p>
                 <br />
                 <button  type="button" class="btn  btn-primary   ">המשך לקרוא..</button>
             </div>
             
             <div class="col-sm-4" >
             	<h4>מוצר שני</h4>
-                <img src="imgs/Koala.jpg" alt="..." class="img-thumbnail img-responsive" />
-                <p>מה שאפשר לספר על המוצר הזה זה הרבה דברים. אולי למשל שהוא יודע לקפוץ, הוא גם יודע לבשל, ואולי גם לקרוא בשעות המאוחרות..</p>
+                <img src="imgs/mapIcon.jpg" id="fetureImg" alt="..." class="img-thumbnail img-responsive" />
+                <p>כאן ניתן תיאור קצר על המוצר..</p>
                 <br />
                 <button  type="button" class="btn btn  btn-primary ">המשך לקרוא..</button>
             </div>
             
             <div class="col-sm-4">
            	 <h4>מוצר שלישי</h4>
-             <img src="imgs/Penguins.jpg" alt="..." class="img-thumbnail img-responsive" />
-             <p>מה שאפשר לספר על המוצר הזה זה הרבה דברים. אולי למשל שהוא יודע לקפוץ, הוא גם יודע לבשל, ואולי גם לקרוא בשעות המאוחרות..</p>
+             <img src="imgs/gavih.jpg" id="fetureImg" alt="..." class="img-thumbnail img-responsive" />
+             <p>כאן ניתן תיאור קצר על המוצר..</p>
              <br />
              <button  type="button" class="btn btn  btn-primary ">המשך לקרוא..</button>
             </div>
